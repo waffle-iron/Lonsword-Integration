@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Nicvaniek/Lonsword-Integration.png?label=ready&title=Ready)](https://waffle.io/Nicvaniek/Lonsword-Integration)
 # Software Engineering :hotsprings:
 ## Team Longsword
 ### NavUP System :calling: :watch: :computer:
